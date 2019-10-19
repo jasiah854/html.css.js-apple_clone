@@ -1,0 +1,54 @@
+/****   iphone 11 pro section******/
+
+.iphone-ll-pro {
+    background: url("../images/hero/iphone-11-pro/iphone_11_pro_large.jpg");
+    margin-top: 4.4rem;
+}
+
+
+/*   iphone 11 pro section */
+
+.title {
+    color: #fff;
+    text-align: center;
+    padding: 5.5rem;
+}
+
+.title-price {
+    font-size: 1.3rem;
+}
+
+.title-heading {
+    font-size: 5.6rem;
+    line-height: 1.07143;
+    letter-spacing: -.005rem;
+}
+
+.title-sub-heading {
+    font-size: 2.65rem;
+    margin: .6rem;
+    letter-spacing: .008rem;
+    font-weight: 400;
+}
+
+.cta {
+    text-align: center;
+    margin-top: 1.8rem;
+}
+
+.cta-link {
+    color: #66bbff;
+    font-size: 2.1rem;
+    display: inline-block;
+}
+
+.cta-link:nth-child(2) {
+    margin-left: 2.6rem;
+}
+
+.cta-link:hover {
+    border-bottom: 2px solid #66bbff;
+}
+
+
+/**end of iphone 11 pro ***/

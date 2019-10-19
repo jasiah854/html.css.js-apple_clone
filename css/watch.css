@@ -1,0 +1,31 @@
+/*watch section css*/
+
+.watch {
+    background: url("../images/hero/watch/watch_large.jpg");
+}
+
+.title-heading-watch {
+    height: 7.8rem;
+    background: url("../images/hero/watch/logo_watch_large.png") center no-repeat;
+    background-size: auto 7.8rem;
+    margin-top: 1.6rem;
+}
+
+
+/* moved to the bottom of all sections to keep consistent styles*/
+
+.hero {
+    height: 69.2rem;
+    background-size: auto 73.6rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: .6rem solid #fff;
+    border-bottom: .6rem solid #fff;
+}
+
+.iphone-ll-pro {
+    border-top: none;
+}
+
+
+/*end**/

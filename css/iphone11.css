@@ -1,0 +1,17 @@
+ /****** iphone 11 section*******/
+ 
+ .iphone-ll {
+     background: url("../images/hero/iphone-11/iphone_11_large.jpg");
+ }
+ 
+ .title-dark {
+     color: #000;
+ }
+ 
+ .cta-link-darker {
+     color: #0070c9;
+ }
+ 
+ .cta-link-darker:hover {
+     border-bottom-color: #0070c9;
+ }
